@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: nikmeshram/node-todo-app-cicd:latest
+    image: nikmeshram/node-todo-zingatapp:latest
     ports:
       - "8000:8000"
